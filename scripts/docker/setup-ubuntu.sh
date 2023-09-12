@@ -55,7 +55,6 @@ packages=(\
     cmake \
     powershell \
     libgl1-mesa-dev:$arch \
-    libsoundio-dev:$arch \
     libjpeg-dev:$arch \
     libvulkan-dev:$arch \
     libx11-dev:$arch \

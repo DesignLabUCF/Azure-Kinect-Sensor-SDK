@@ -26,9 +26,6 @@
 [submodule "extern/glfw/src"]
 	path = extern/glfw/src
 	url = https://github.com/glfw/glfw
-[submodule "extern/libsoundio/src"]
-	path = extern/libsoundio/src
-	url = https://github.com/andrewrk/libsoundio.git
 [submodule "extern/libjpeg-turbo/src"]
 	path = extern/libjpeg-turbo/src
 	url = https://github.com/libjpeg-turbo/libjpeg-turbo.git
